@@ -1,1 +1,1 @@
-Recopilacion de ejemplos vistos en PROD de intenrtos de inyeccion de codigo SQL
+Recopilación de ejemplos vistos en PROD de intentos de inyeccion de codigo SQL
